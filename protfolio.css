@@ -6,6 +6,7 @@ body{
 /* nav releted style */
 nav{
     display: flex;
+    justify-content: space-between;
 }
 .nav-web{
     color: #181818;
